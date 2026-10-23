@@ -1,0 +1,7 @@
+{
+  "account": "<ORG>-<ACCOUNT>",
+  "user": "<STREAMING_USER>",
+  "url": "https://<ORG>-<ACCOUNT>.snowflakecomputing.com:443",
+  "private_key_file": "/absolute/path/to/rsa_key.p8",
+  "role": "<ROLE_WITH_INSERT_ON_RAW_EVENTS>"
+}

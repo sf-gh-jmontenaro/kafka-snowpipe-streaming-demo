@@ -1,0 +1,6 @@
+profile.json
+*.p8
+*.pem
+.venv/
+__pycache__/
+.DS_Store
